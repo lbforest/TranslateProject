@@ -1,3 +1,4 @@
+Translating by lbforest
 4 considerations when naming software development projects
 ======
 
